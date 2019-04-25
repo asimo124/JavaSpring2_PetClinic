@@ -1,4 +1,8 @@
-package guru.springframework.sfgpetclinic.model;
+package guru.springframework.sfgpetclinic.model.model;
+
+import guru.springframework.sfgpetclinic.model.BaseEntity;
+import guru.springframework.sfgpetclinic.model.Owner;
+import guru.springframework.sfgpetclinic.model.PetType;
 
 import java.time.LocalDate;
 
