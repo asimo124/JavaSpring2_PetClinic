@@ -1,7 +1,7 @@
-package guru.springframework.sfgpetclinic.model.services;
+package guru.springframework.sfgpetclinic.services;
+
 
 import guru.springframework.sfgpetclinic.model.Owner;
-
 
 /**
  * Created by jt on 7/18/18.
